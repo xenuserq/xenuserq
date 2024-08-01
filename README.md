@@ -12,6 +12,7 @@ Hi 👋 My name is Eugene Grigorjev
 * 🌍  I'm based in London
 * ✉️  You can contact me at [xenvoid0@gmail.com](mailto:xenvoid0@gmail.com)
 * 👀 I’m interested in Python, C#, **Data Engineering**, Graphics Libraries and 3D Engines.
+* 🌱 I’m currently learning Python Data Analysis
 
 ### Skills
 
