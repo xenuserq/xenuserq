@@ -1,17 +1,9 @@
-
-- 👀 I’m interested in Python, C#, Data Engineering, Graphic Libraries and 3D Engines.
-- 🌱 I’m currently learning **Python Data Analysis** 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 Hi 👋 My name is Eugene Grigorjev
 =================================
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [xenvoid0@gmail.com](mailto:xenvoid0@gmail.com)
-* 👀 I’m interested in Python, C#, **Data Engineering**, Graphics Libraries and 3D Engines.
+* 👀 I’m interested in Python, C#, **Data Engineering**, Graphics Libraries and 3D Engines, Machine Learning 
 * 🌱 I’m currently learning Python Data Analysis
 
 ### Skills
